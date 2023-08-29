@@ -8,7 +8,7 @@ from a set time to zero, with options to stop,
 reset, and restart the timer.,
 <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <img src="countdown ss.png" alt="ScreenShot">
+  <img src="countdown ss.png" alt="ScreenShot" width="500px">
 
 <a href=""><strong>➥ Live Demo</strong></a>
 
