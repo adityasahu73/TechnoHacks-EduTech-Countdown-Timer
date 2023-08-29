@@ -7,8 +7,7 @@ Create a countdown timer that counts down
 from a set time to zero, with options to stop,
 reset, and restart the timer.,
 <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
-  <img src="countdown.png" alt="ScreenShot">
 
-<a href=""><strong>➥ Live Demo</strong></a>
+<a href="https://adityasahu73.github.io/TechnoHacks-EduTech-Countdown-Timer/"><strong>➥ Live Demo</strong></a>
 
 </div>
